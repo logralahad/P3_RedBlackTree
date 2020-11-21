@@ -1,4 +1,2 @@
 # P3_RedBlackTree
-Realizar un programa que realice las operaciones con arboles binarios balanceados.
-
-Mismas operaciones que en arboles binarios
+https://es.wikipedia.org/wiki/Árbol_rojo-negro#/media/Archivo:Red-black_tree_example.svg
